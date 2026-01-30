@@ -70,7 +70,7 @@ Full Stack Developer with industry experience at **Sri Lanka Ports Authority**. 
 ## 🎯 Featured Projects
 
 ### 🌊 Mahapola Ports and Maritime Academy (MPMA) Website
-> Official website for Sri Lanka's premier maritime training academy
+> Official website for Sri Lanka's premier maritime training academy affiliated with the Sri Lanka Ports Authority
 - Designed and developed complete enterprise website during internship at **Sri Lanka Ports Authority**
 - Built with modern web technologies for optimal performance and user experience
 - Implemented responsive design and content management features
